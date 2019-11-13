@@ -18,8 +18,6 @@
 #  end
 #end
 
-#phrase = "i love you grandma!".upcase
-
 def speak_to_grandma(phrase)
   if phrase == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
@@ -33,6 +31,4 @@ def speak_to_grandma(phrase)
     "NO, NOT SINCE 1938!"
   end
 end
-
-
 
