@@ -32,7 +32,7 @@ def speak_to_grandma(phrase)
   end
 end
 
-speak_to_grandma("i love you grandma.upcase")
+speak_to_grandma("i love you grandma".upcase)
     
     "HUH?! SPEAK UP, SONNY!"
   end
